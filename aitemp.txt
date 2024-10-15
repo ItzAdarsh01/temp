@@ -1,5 +1,5 @@
 Artificial intelligence (AI), in its broadest sense, 
-is intelligence exhibited by machines, particularly computer systems. 
+is intelligence exhibited by machines, particularly computer systems. machine learning is the part of AI.
 It is a field of research in computer science that develops and studies
  methods and software that enable machines to perceive their environment
  and use learning and intelligence to take actions that maximize 
